@@ -1,0 +1,891 @@
+curl 'https://www.youtube.com/s/desktop/9e7f5697/cssbin/www-main-desktop-player-skeleton-2x.css' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'Accept: text/css,*/*;q=0.1' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'Referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://i.ytimg.com/sb/xizotopfVj8/storyboard3_L1/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjSlbaKBg==&sigh=rs%24AOn4CLDAjoerucdjytHoB4c4Kwzt-z-rUQ' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'Referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --compressed ;
+curl 'https://i.ytimg.com/sb/xizotopfVj8/storyboard3_L2/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjSlbaKBg==&sigh=rs%24AOn4CLCxsZvj9utRd6JtzPaMf-WGMW-OKA' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/sb/xizotopfVj8/storyboard3_L2/M1.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjSlbaKBg==&sigh=rs%24AOn4CLCxsZvj9utRd6JtzPaMf-WGMW-OKA' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/sb/xizotopfVj8/storyboard3_L2/M2.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjSlbaKBg==&sigh=rs%24AOn4CLCxsZvj9utRd6JtzPaMf-WGMW-OKA' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/sb/xizotopfVj8/storyboard3_L2/M3.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABBqLzl_8DBgjSlbaKBg==&sigh=rs%24AOn4CLCxsZvj9utRd6JtzPaMf-WGMW-OKA' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailpage&cpn=8t2VGZaIzYiYnCA6&ver=2&cmt=15.532&fmt=137&fs=0&rt=240.011&euri&lact=1970&cl=577682705&state=paused&volume=95%2C95%2C95%2C95&cbr=Chrome&cbrver=118.0.0.0&c=WEB&cver=2.20231030.04.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=en_US&cr=IN&uga=m22&len=149.081&rtn=280&afmt=251&idpj=-8&ldpj=-3&rti=240&st=133.066%2C137.229%2C8.061%2C13.655&et=137.229%2C137.28%2C9.439%2C15.532&muted=0%2C0%2C0%2C0&docid=xizotopfVj8&ei=qWNCZcHJOOOGjuMPk5yOiA8&plid=AAYJGEVAWrCFgiEN&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxizotopfVj8&sdetail=rv%3AxizotopfVj8&sourceid=yw&of=_qCnwGk-KWlmu42OAuiBCg&vm=CAEQABgEOjJBRzZGdTI1SjRUVks4ZU1DdUxwQjlVSF9yaU93cWFuNlhfTVYwZXAyLWd0elptaGh5UWKUAUFQbWtLRElwMDBrODY3WFVjb3lKUTVOcnpYdTRMTTBsLXNiV29FYzk5MzlnaVRaaFplNEhsTnRPMVNoYUQxTWMwUjVuQWFKeVpmbDFnVkdXUUZWc2VCM0dJa01WdTNhZExzN2hCcFc2LU5ZMGxheWlFZEVmdUlsNG51Wllob1lnUkx2cGJsRW0tbWJHRjZ1WXpUQVBoAQ' \
+  -H 'authority: www.youtube.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'cookie: VISITOR_INFO1_LIVE=LJZwTAMR2ZE; PREF=f4=4000000&f6=40000000&tz=Asia.Calcutta&f5=30000&f7=100; LOGIN_INFO=AFmmF2swRgIhAJ-L35PsMA_mCM3VKvGlvt5Z34LOTaCNuUOH6VWLKTJ3AiEAxTwRWGhKf5YLsFVBPvgEcuecj204mzbFz7ymi7KZdfM:QUQ3MjNmemtNTHVBcjJPMmdOSW4tdnpPYTBVOEJfYlBSdTd2cWpCUzBQZnVhLW9zUU9SdGFkQ25WMnM5VV85em9jM1YwTTN5aVV6Z2k1akJFb2t6anNucS01aHdCOEI4N3FzM3Utb19ScXplR1ZlY2tWR3ZYd2tSLTdiM0t4QnZKdHlPUEgtdmNodW1GNmhzYUxOREFXNXI0R2dsUy0xdU5R; VISITOR_PRIVACY_METADATA=CgJJThICGgA%3D; SID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZuZ0Jiok3t6MqUX7BdvQEmg.; __Secure-1PSIDTS=sidts-CjEB3e41hapHMZTCkbeu-KbekBtWBBhd2HVxwXcAWbIty0J33_G_2H8Smj5wei-IaXFqEAA; __Secure-3PSIDTS=sidts-CjEB3e41hapHMZTCkbeu-KbekBtWBBhd2HVxwXcAWbIty0J33_G_2H8Smj5wei-IaXFqEAA; __Secure-1PSID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZ9jgTEP7w-KJGLA1iNlYC7Q.; __Secure-3PSID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZ077-koLtjiIzAKv9JNG0Cw.; HSID=AtUW0l55wfIZAq0EA; SSID=A7pjPOG5Aw_Y9vTSN; APISID=IRnJk9nWv2sv-UCZ/AQrtpTVgvhyUHZhLo; SAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; __Secure-1PAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; __Secure-3PAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; YSC=kfCBqQhxUKw; SOCS=CAISNQgDEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjMwODI5LjA3X3AxGgJlbiADGgYIgJnPpwY; wide=1; SIDCC=ACA-OxO1NxqdxAxUYTAj7GPvv-e8CYFlSKYXZHwf0lvOeNwK671jqkitrEMCdqqe-4baJS257A; __Secure-1PSIDCC=ACA-OxPcax-BvEtd2D6gcfh_3fu-1jGXF__Lbfmx0cUwjk07SvMl2gg7ZWkSWA2wnnjaXfoCtQ; __Secure-3PSIDCC=ACA-OxP_Y5kk_7-t4aeud_OqNt8GgY-4BwACfILnf-FG3CHnWMlOcah2mYl8r95Kb8oNVU3u810' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'x-goog-authuser: 1' \
+  -H 'x-goog-request-time: 1698849945999' \
+  -H 'x-goog-visitor-id: CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D' \
+  -H 'x-youtube-ad-signals: dt=1698849705919&flash=0&frm&u_tz=330&u_his=1&u_h=723&u_w=954&u_ah=723&u_aw=954&u_cd=24&bc=31&bih=718&biw=930&brdim=7%2C0%2C7%2C0%2C954%2C0%2C954%2C723%2C947%2C718&vis=1&wgl=true&ca_type=image' \
+  -H 'x-youtube-client-name: 1' \
+  -H 'x-youtube-client-version: 2.20231030.04.00' \
+  -H 'x-youtube-device: cbr=Chrome&cbrver=118.0.0.0&ceng=WebKit&cengver=537.36&cos=Windows&cosver=10.0&cplatform=DESKTOP' \
+  -H 'x-youtube-identity-token: QUFFLUhqa2FXRnRFOVBJc2NRaTZ6SG5qZjJNdmF6T1hIZ3w=' \
+  -H 'x-youtube-page-cl: 577842696' \
+  -H 'x-youtube-page-label: youtube.desktop.web_20231030_04_RC00' \
+  -H 'x-youtube-time-zone: Asia/Calcutta' \
+  -H 'x-youtube-utc-offset: 330' \
+  -H 'x-yt-auth-test: test' \
+  --compressed ;
+curl 'https://www.youtube.com/api/stats/qoe?fmt=137&afmt=251&cpn=8t2VGZaIzYiYnCA6&el=detailpage&ns=yt&fexp=v1%2C23858057%2C125239%2C2735%2C18613%2C2602%2C73492%2C54572%2C73455%2C162633%2C381%2C67582%2C60171%2C22664%2C1786%2C116%2C17228%2C1867%2C4%2C4%2C6585%2C672%2C8869%2C1089%2C5877%2C394%2C3200%2C18471%2C111541%2C26306282%2C4054%2C1253%2C677%2C5181%2C1543%2C4384%2C1968%2C2294%2C736%2C2040%2C5033%2C2196%2C739%2C120%2C406%2C3004%2C902%2C4935%2C80%2C3363%2C1930&cl=577682705&seq=9&docid=xizotopfVj8&ei=qWNCZcHJOOOGjuMPk5yOiA8&event=streamingstats&plid=AAYJGEVAWrCFgiEN&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxizotopfVj8&sdetail=rv%3AxizotopfVj8&sourceid=yw&qclc=ChA4dDJWR1phSXpZaVluQ0E2EAk&embargoed=0&cbr=Chrome&cbrver=118.0.0.0&c=WEB&cver=2.20231030.04.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=233.672:B,234.365:S:ss.7,234.916:PL,236.095:S:ss.7,236.281:B,236.547:PL,238.212:PA&bwe=236.095:1159815,240.013:1159815&bat=236.095:1:1,240.013:1:1&bh=236.095:149.049,240.013:149.049&df=240.013:1' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'X-YouTube-Device: cbr=Chrome&cbrver=118.0.0.0&ceng=WebKit&cengver=537.36&cos=Windows&cosver=10.0&cplatform=DESKTOP' \
+  -H 'X-Yt-Auth-Test: test' \
+  -H 'X-YouTube-Page-Label: youtube.desktop.web_20231030_04_RC00' \
+  -H 'X-YouTube-Page-CL: 577842696' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'X-YouTube-Utc-Offset: 330' \
+  -H 'X-Goog-AuthUser: 1' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'X-YouTube-Time-Zone: Asia/Calcutta' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'Referer: https://www.youtube.com/' \
+  -H 'X-YouTube-Client-Name: 1' \
+  -H 'X-YouTube-Client-Version: 2.20231030.04.00' \
+  -H 'X-Youtube-Identity-Token: QUFFLUhqa2FXRnRFOVBJc2NRaTZ6SG5qZjJNdmF6T1hIZ3w=' \
+  -H 'X-Goog-Visitor-Id: CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D' \
+  -H 'X-YouTube-Ad-Signals: dt=1698849705919&flash=0&frm&u_tz=330&u_his=1&u_h=723&u_w=954&u_ah=723&u_aw=954&u_cd=24&bc=31&bih=718&biw=930&brdim=7%2C0%2C7%2C0%2C954%2C0%2C954%2C723%2C947%2C718&vis=1&wgl=true&ca_type=image' \
+  --data-raw 'cmt=233.672%3A137.229%2C234.365%3A8.061%2C234.916%3A8.061%2C235.673%3A9.114%2C236.095%3A13.655%2C236.281%3A13.655%2C236.547%3A13.861%2C237.298%3A14.613%2C238.212%3A15.527%2C240.013%3A15.532&session_token=QUFFLUhqbkhmVVZkNjNnUVNtbE94Z0dndmMtdTJLSmpwQXxBQ3Jtc0tra0RNdkktbmVZWWlhYmFLWHhZWTJFaWd0OGRxejF2U3BqSk4zV19HaUxvendwcVZmNTU4dlR5R0FfakJIRVdWcTlpXzJfYzBWaXg3cWVOX2ZGZngwNlR1TTh1VldRQnF3NTdQbTFBUTJsUG9yanBLTQ%3D%3D' \
+  --compressed ;
+curl 'https://www.youtube.com/api/stats/qoe?fmt=137&afmt=251&cpn=8t2VGZaIzYiYnCA6&el=detailpage&ns=yt&fexp=v1%2C23858057%2C125239%2C2735%2C18613%2C2602%2C73492%2C54572%2C73455%2C162633%2C381%2C67582%2C60171%2C22664%2C1786%2C116%2C17228%2C1867%2C4%2C4%2C6585%2C672%2C8869%2C1089%2C5877%2C394%2C3200%2C18471%2C111541%2C26306282%2C4054%2C1253%2C677%2C5181%2C1543%2C4384%2C1968%2C2294%2C736%2C2040%2C5033%2C2196%2C739%2C120%2C406%2C3004%2C902%2C4935%2C80%2C3363%2C1930&cl=577682705&seq=10&docid=xizotopfVj8&ei=qWNCZcHJOOOGjuMPk5yOiA8&event=streamingstats&plid=AAYJGEVAWrCFgiEN&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxizotopfVj8&sdetail=rv%3AxizotopfVj8&sourceid=yw&qclc=ChA4dDJWR1phSXpZaVluQ0E2EAo&embargoed=0&cbr=Chrome&cbrver=118.0.0.0&c=WEB&cver=2.20231030.04.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&cmt=244.569:15.595,244.839:15.792,245.599:16.554,248.803:19.757,250.011:19.760&vps=244.569:B,244.839:PL,248.803:PA&bwe=250.011:1159815&bat=250.011:1:1&bh=250.011:149.049' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'X-YouTube-Device: cbr=Chrome&cbrver=118.0.0.0&ceng=WebKit&cengver=537.36&cos=Windows&cosver=10.0&cplatform=DESKTOP' \
+  -H 'X-Yt-Auth-Test: test' \
+  -H 'X-YouTube-Page-Label: youtube.desktop.web_20231030_04_RC00' \
+  -H 'X-YouTube-Page-CL: 577842696' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'X-YouTube-Utc-Offset: 330' \
+  -H 'X-Goog-AuthUser: 1' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'X-YouTube-Time-Zone: Asia/Calcutta' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'Referer: https://www.youtube.com/' \
+  -H 'X-YouTube-Client-Name: 1' \
+  -H 'X-YouTube-Client-Version: 2.20231030.04.00' \
+  -H 'X-Youtube-Identity-Token: QUFFLUhqa2FXRnRFOVBJc2NRaTZ6SG5qZjJNdmF6T1hIZ3w=' \
+  -H 'X-Goog-Visitor-Id: CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D' \
+  -H 'X-YouTube-Ad-Signals: dt=1698849705919&flash=0&frm&u_tz=330&u_his=1&u_h=723&u_w=954&u_ah=723&u_aw=954&u_cd=24&bc=31&bih=718&biw=930&brdim=7%2C0%2C7%2C0%2C954%2C0%2C954%2C723%2C947%2C718&vis=1&wgl=true&ca_type=image' \
+  --data-raw 'session_token=QUFFLUhqbkhmVVZkNjNnUVNtbE94Z0dndmMtdTJLSmpwQXxBQ3Jtc0tra0RNdkktbmVZWWlhYmFLWHhZWTJFaWd0OGRxejF2U3BqSk4zV19HaUxvendwcVZmNTU4dlR5R0FfakJIRVdWcTlpXzJfYzBWaXg3cWVOX2ZGZngwNlR1TTh1VldRQnF3NTdQbTFBUTJsUG9yanBLTQ%3D%3D' \
+  --compressed ;
+curl 'https://www.youtube.com/api/stats/qoe?fmt=137&afmt=251&cpn=8t2VGZaIzYiYnCA6&el=detailpage&ns=yt&fexp=v1%2C23858057%2C125239%2C2735%2C18613%2C2602%2C73492%2C54572%2C73455%2C162633%2C381%2C67582%2C60171%2C22664%2C1786%2C116%2C17228%2C1867%2C4%2C4%2C6585%2C672%2C8869%2C1089%2C5877%2C394%2C3200%2C18471%2C111541%2C26306282%2C4054%2C1253%2C677%2C5181%2C1543%2C4384%2C1968%2C2294%2C736%2C2040%2C5033%2C2196%2C739%2C120%2C406%2C3004%2C902%2C4935%2C80%2C3363%2C1930&cl=577682705&seq=11&docid=xizotopfVj8&ei=qWNCZcHJOOOGjuMPk5yOiA8&event=streamingstats&plid=AAYJGEVAWrCFgiEN&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxizotopfVj8&sdetail=rv%3AxizotopfVj8&sourceid=yw&qclc=ChA4dDJWR1phSXpZaVluQ0E2EAs&embargoed=0&cbr=Chrome&cbrver=118.0.0.0&c=WEB&cver=2.20231030.04.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=251.571:B,251.838:PL,252.625:PA,255.394:B,255.677:PL,257.011:PA&bwe=260.011:1159815&bat=260.011:1:1&bh=260.011:149.049' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'X-YouTube-Device: cbr=Chrome&cbrver=118.0.0.0&ceng=WebKit&cengver=537.36&cos=Windows&cosver=10.0&cplatform=DESKTOP' \
+  -H 'X-Yt-Auth-Test: test' \
+  -H 'X-YouTube-Page-Label: youtube.desktop.web_20231030_04_RC00' \
+  -H 'X-YouTube-Page-CL: 577842696' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'X-YouTube-Utc-Offset: 330' \
+  -H 'X-Goog-AuthUser: 1' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'X-YouTube-Time-Zone: Asia/Calcutta' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'Referer: https://www.youtube.com/' \
+  -H 'X-YouTube-Client-Name: 1' \
+  -H 'X-YouTube-Client-Version: 2.20231030.04.00' \
+  -H 'X-Youtube-Identity-Token: QUFFLUhqa2FXRnRFOVBJc2NRaTZ6SG5qZjJNdmF6T1hIZ3w=' \
+  -H 'X-Goog-Visitor-Id: CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D' \
+  -H 'X-YouTube-Ad-Signals: dt=1698849705919&flash=0&frm&u_tz=330&u_his=1&u_h=723&u_w=954&u_ah=723&u_aw=954&u_cd=24&bc=31&bih=718&biw=930&brdim=7%2C0%2C7%2C0%2C954%2C0%2C954%2C723%2C947%2C718&vis=1&wgl=true&ca_type=image' \
+  --data-raw 'cmt=251.571%3A19.815%2C251.838%3A20.012%2C252.603%3A20.778%2C252.625%3A20.801%2C255.394%3A20.875%2C255.677%3A21.091%2C256.449%3A21.864%2C257.011%3A22.426%2C260.011%3A22.435&session_token=QUFFLUhqbkhmVVZkNjNnUVNtbE94Z0dndmMtdTJLSmpwQXxBQ3Jtc0tra0RNdkktbmVZWWlhYmFLWHhZWTJFaWd0OGRxejF2U3BqSk4zV19HaUxvendwcVZmNTU4dlR5R0FfakJIRVdWcTlpXzJfYzBWaXg3cWVOX2ZGZngwNlR1TTh1VldRQnF3NTdQbTFBUTJsUG9yanBLTQ%3D%3D' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/ltldr10DCto/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYfyBDKDAwDw==&rs=AOn4CLClls5HUhmUxpBgsjuWSD8A88M4VA' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/L8v4oe9lVK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUjyX4I3MazHREQ3xiWSxYNjRnXA' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/u35WIs62R2M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsIdRzTim9uTnYn6TiZzYHOZluCA' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/w3EYKuFGJ5c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYfDy_7HXIGsYpxuiA-7wp2_thaQ' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/Vd7F5VHz5BI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAj8xHX0gPougJCJWDTEdfJhpQ9ow' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/R31vV8cRTJE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhyIGMoODAP&rs=AOn4CLCbXpJnNVZeF5ItbrCcPOPWg1A1RA' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/XQPy88-E2zo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhyIEEoOTAP&rs=AOn4CLB2J1M4unKIQqMfy4pQEge35-h-nw' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/an_webp/u35WIs62R2M/mqdefault_6s.webp?du=3000&sqp=COvFiaoG&rs=AOn4CLA3cs-e2ZEPE8-vjGXs7qLwnaYedg' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/an_webp/w3EYKuFGJ5c/mqdefault_6s.webp?du=3000&sqp=CKeliaoG&rs=AOn4CLCBpIyaQmEYcK83zCfzXA-at6lONw' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' \
+  -H 'Referer: https://www.youtube.com/' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/34tyCS9LdiQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDV5_1P0bFNCpZoUfWR88idMHMH2w' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/BlLk6BSyOjQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFfUZ8mmdWPaAiJMa9iix41eC7aw' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/6tozeaDnki8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5T0llxk_fDPBk2maO0KUe5yEzgw' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/4GkAAmk_nf8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFHhmkuuPJOiLQKnoyJqHEfgSKJg' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/gNGa9p_x0EI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCobCVrJ2cZ4QQuTb54f4TdxiCxzg' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/QWFUuPZXpQo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTF7I3ma8I-EJpuYFObD3k-WYgbA' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/vi/xvLCxL6k3_4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOui7p0C0mryY0m6qwj8f5Oyb4MA' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://i.ytimg.com/an_webp/gNGa9p_x0EI/mqdefault_6s.webp?du=3000&sqp=CLy4iaoG&rs=AOn4CLCim0l5CrNcc4QwsAvFumT7Tp0HQA' \
+  -H 'authority: i.ytimg.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://yt3.ggpht.com/sY5vGY7S3Me_wVZ1-VJuh4HHkVGuFFvPYIItQYh-6yPXVPPIA9OeQKErvD2-PAifQEUdW6Oalw=s88-c-k-c0x00ffffff-no-rj' \
+  -H 'authority: yt3.ggpht.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://yt3.ggpht.com/ytc/APkrFKaLYd_56VoXCLWJg9ds2frU33zxoEPkaTT2oA=s88-c-k-c0x00ffffff-no-rj' \
+  -H 'authority: yt3.ggpht.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8' \
+  -H 'authority: www.youtube.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'authorization: SAPISIDHASH 1698849975_0d81bcc9f4dbd9f397c4ec1b82dec25d8bf017bc' \
+  -H 'content-encoding: gzip' \
+  -H 'content-type: application/json+protobuf' \
+  -H 'cookie: VISITOR_INFO1_LIVE=LJZwTAMR2ZE; PREF=f4=4000000&f6=40000000&tz=Asia.Calcutta&f5=30000&f7=100; LOGIN_INFO=AFmmF2swRgIhAJ-L35PsMA_mCM3VKvGlvt5Z34LOTaCNuUOH6VWLKTJ3AiEAxTwRWGhKf5YLsFVBPvgEcuecj204mzbFz7ymi7KZdfM:QUQ3MjNmemtNTHVBcjJPMmdOSW4tdnpPYTBVOEJfYlBSdTd2cWpCUzBQZnVhLW9zUU9SdGFkQ25WMnM5VV85em9jM1YwTTN5aVV6Z2k1akJFb2t6anNucS01aHdCOEI4N3FzM3Utb19ScXplR1ZlY2tWR3ZYd2tSLTdiM0t4QnZKdHlPUEgtdmNodW1GNmhzYUxOREFXNXI0R2dsUy0xdU5R; VISITOR_PRIVACY_METADATA=CgJJThICGgA%3D; SID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZuZ0Jiok3t6MqUX7BdvQEmg.; __Secure-1PSIDTS=sidts-CjEB3e41hapHMZTCkbeu-KbekBtWBBhd2HVxwXcAWbIty0J33_G_2H8Smj5wei-IaXFqEAA; __Secure-3PSIDTS=sidts-CjEB3e41hapHMZTCkbeu-KbekBtWBBhd2HVxwXcAWbIty0J33_G_2H8Smj5wei-IaXFqEAA; __Secure-1PSID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZ9jgTEP7w-KJGLA1iNlYC7Q.; __Secure-3PSID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZ077-koLtjiIzAKv9JNG0Cw.; HSID=AtUW0l55wfIZAq0EA; SSID=A7pjPOG5Aw_Y9vTSN; APISID=IRnJk9nWv2sv-UCZ/AQrtpTVgvhyUHZhLo; SAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; __Secure-1PAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; __Secure-3PAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; YSC=kfCBqQhxUKw; SOCS=CAISNQgDEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjMwODI5LjA3X3AxGgJlbiADGgYIgJnPpwY; wide=1; SIDCC=ACA-OxO1NxqdxAxUYTAj7GPvv-e8CYFlSKYXZHwf0lvOeNwK671jqkitrEMCdqqe-4baJS257A; __Secure-1PSIDCC=ACA-OxPcax-BvEtd2D6gcfh_3fu-1jGXF__Lbfmx0cUwjk07SvMl2gg7ZWkSWA2wnnjaXfoCtQ; __Secure-3PSIDCC=ACA-OxP_Y5kk_7-t4aeud_OqNt8GgY-4BwACfILnf-FG3CHnWMlOcah2mYl8r95Kb8oNVU3u810' \
+  -H 'origin: https://www.youtube.com' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'x-goog-authuser: 1' \
+  -H 'x-goog-request-time: 1698849975024' \
+  -H 'x-goog-visitor-id: CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D' \
+  -H 'x-origin: https://www.youtube.com' \
+  -H 'x-youtube-ad-signals: dt=1698849705919&flash=0&frm&u_tz=330&u_his=1&u_h=723&u_w=954&u_ah=723&u_aw=954&u_cd=24&bc=31&bih=718&biw=930&brdim=7%2C0%2C7%2C0%2C954%2C0%2C954%2C723%2C947%2C718&vis=1&wgl=true&ca_type=image' \
+  -H 'x-youtube-client-name: 1' \
+  -H 'x-youtube-client-version: 2.20231030.04.00' \
+  -H 'x-youtube-device: cbr=Chrome&cbrver=118.0.0.0&ceng=WebKit&cengver=537.36&cos=Windows&cosver=10.0&cplatform=DESKTOP' \
+  -H 'x-youtube-identity-token: QUFFLUhqa2FXRnRFOVBJc2NRaTZ6SG5qZjJNdmF6T1hIZ3w=' \
+  -H 'x-youtube-page-cl: 577842696' \
+  -H 'x-youtube-page-label: youtube.desktop.web_20231030_04_RC00' \
+  -H 'x-youtube-time-zone: Asia/Calcutta' \
+  -H 'x-youtube-utc-offset: 330' \
+  -H 'x-yt-auth-test: test' \
+  --data-raw $'\u001f\u008b\u0008\u0000\u0000\u0000\u0000\u0000\u0000\u0003½\u009bY\u008fâ<\u0016\u0086ÿ\u000bÒÜ\u0015-Ûq¶O\u009a\u000bÈB%\u0021\u0081@ÂV*\u0021ö\u001d\u008a½`4ÿ}ì@¨êé\u00826f)\u0089\u0016:\u001düø=ö9^b¿½½%:ÓÄKÂò\u0012/Óõx|þ\u009f·÷¿<\u0000_\u0012è\u0017\u0002H\u0080@\u0000¿\u0000þ\u0005\u0000)¸<\u0098¶gÛ%ù\u0006\u0089ño\u0090\u001b«ðG\u008dn¡±T(¡9Ó×Ac\u00961ò\u0019iá\u0087¾$æÖé\u0082¦®æØ4rÙpÑ\u000býdr@lº*9Ô&\u0014\u0016ÛÐ\u009f©\u008d\ry®\u000f%Å4¼M\u0095Úzj\u0092Øt\u001fÏ\u0089-ÛÝP[}\u001dÙ\\Õ\u00216GFÑo»sj«Ôéo\u009d\u0081¶L\u0085¾`9[b[÷³)òÛI\u0086Úú¸ClZ£/\u0013\u009b\u009b³¨\rZ\u0003jË\u000e\u009aÄ\u0096ïØÔ¶©Î\u0089m¶óCu^\u0098¨Ø­´\u0097\u008dq¿è\u0083þ.@¥J{X\u00187PÁõÌ\u008fJh\u008cöÍ2\u001c·\u0005¯\u0010\u0004^Ð,\u009b»Æ8½¨\u0086Ðh¢ÖÀ\u001d\u0099ùÆ¨¶éè.Ê\u0096ú\u0099vPX·Çv©mÚ¥\u0012(Ì=´DA¹´k\u001a\u009fi\u007f_²ü}Û¬\u0005ýqP¶`\u0005Ô\u0090kxSg\u0092Öý\u0010\u0006áÈØÖ2ímµ¬¦[¨]©\u0090O3ì\u0089Å\u0092×\rËv¡P±\u0087¡\u009e\u009e\u0016\u0086mX\u0003\u0006ÊUÚvi4n\u0014\u0081»õ+\u001f\u0083\\¹Ý\u000f\u0088\u0086â¨µo\u0086«Q \u0017ò\u0085Ðî7\u0081\u000fraéµ\u0006ÇR\u0010º°<\u0082ûÎH\u009d\u0016Ìô²ø:\u009e{aõ_\u0082~ìª_-Üw¡»7\u0004Wï\u0021O÷E/ð¡·÷Å\\à£Ìñ\u0019wh§\u0003ô\u0091i\n½Ï6ú\u009c\u0097M[/¾ÚùZ©\u008d¼LiQ3¶ <nûÅÀ[5Ë%¡\u0005MÏ\u0085ÞªZ±çafÕ\u000fÂÂ¦¶ÿÖ\u0012ûêªlÔ \u0097\u0011Q8.\u0001ò©\u001423¡±¯yµ\u008a½\u000c\u000cS÷Â¾î\u0081Ò8\u0097)yÕa©[\u0098V·>jkUÃK\u0007%¯è\u0007éQMH\u0013Õæ¾\u0006Û]òY\u0015õ±\u001dBµP\u001d\u009bfkâùn¦\u009dñ\u0084ÒÔ\u000fªb\u001b\u008cËÅÒGÖß§Ó\u009d\u0089%Ö\u0090\u0099\'\u001a\u009cÂÞ[\u0015i/0TÓ\u009f\u0098\u001bÒQÅBØ\u009e\u0096+\u001f\u001eiÉFPñ¤\u0000µ\u008d0óiuÊ3Xè\u0011\'þèGÿÓÓ{äã\u0003wè"oØ\u0013<Ý\u0002¹ \u0007½ÏÁÇ\'\u009eÌÓ\u0083A(æ·EÇ[\u0007õ\u00825û\\dUc0\u0098¯ò è8]\u009fÚ¦\u001f¯Ibk,º¸è¸C§Þ·fBK¦¶\u0010Q\u009b3ìS[\u007f½§6_Þ\u0010\u009b]ßS\u001bÌç©-§Òçì\n¦¶ÙfHlÃ0\u0099\'¶lW¤¶äf\u00914\u0086Ö="CºGdøÃCd\u0014Cc\u001bdÔ\\mXËTGf·SnëM \u000eý\u0092\u009d\u0009\'µAgØ·\u0083\u008a¹m\u0001ï#\u001b\u00144Ò7Ò\u0081P¨ùa\u0018µÈWcäòQê\u0099ã(}´z\u000b\u0092\u0016r\u009b\u0019\u0011\u001f§2A"\u008e3r\u001d\u0089>\u0087Z\u0013\u009azº\u0088¦#O\u001fP\u009b´ÌÑT¦$\u001b4mí\u0017QyÝ\u000eµ\u0081]#J[Ò·ôæ\n\u0012I\u0083YY\u008c\u009e³2\u0094[\u0012£ç*\u001aån\u009a\rÊÅ\u0003ú\u009cÓHÓ\u0014U·Ê4m½F©Ì+öéo\u000fiK\u0087\u0011÷\u0098B\u0091\u00141\u000ei0_\u0087´<1K\u001a»\u007fLµvP£¶Ag\u0010iKv©¶i¤wï\u0090ÎÓ×m5J«]\u0081\u00967ÈQmº´¡)Ù\u0013¢çVÉ\u00881\u00804\u009d{Å(­®\u001a\u008d(%K\u0091\u008e]ôÛM\u009dú@\u000f0µå¤ÈW*\u009eD)Yù\u0096Îç\u0087Ô}HçÇáa]mP\u001bQCêçî\u0001±Ñ\u0086û>þÁ_H¼zDä\u001as\u0013Z\u007f1\u009btè\u0010\u000e\u0095_à\u0017Ã8.\u0002ú÷òö­º\u007fÔ\u0094\u0094üöÎSÿÓ¯ÞÞþ\u0093\u0080\u0089\u007f ¤*\nVeYU$ü\u0092\u0010\u0013ÿ¼%6-R]Ç\u001dì×¸Ó\u001djN³Û\u009a\u000e\u0088ÿ\u0012\u0082@þ[\u0094eExÿ/©Àÿ\u0017 âÓ#\nDäy\u0005Ðâ\u0092\u0090\u0014\u0087É\u0087~A/\u0089\u009d0\u0092¼e\u0096\u0004UoaÖËÉÄ\u009f\u0085©@\u0012ÅcaH\u0010ÔSYdz$È\u0009ZO:\'\u0092%R"d+Q\u00862\u008c«\'B*\u0006cò\u009dü%\\\r\u007fºCëÓ\u000b¬O2B\u0089ÞÞÚºCã×\u001f\rõ­I\u0000ñãÛ\u001b\u0002\u0004O$M\u0087\u001fâ«§-\u0013ïïïQËü?_\u0081Ê7E\u0008\u0008ÒI\u0012"Î¢\u0093=\u0089|\u0090\u0002èÄ\u008fI\u0092"@Y\u0088%\u0009"\u008c<.#ZäyAdÒåV5Ãñ·\u0099\u009410¶Ãâh¦ÍûNNK}V2\u0085\u009e¢½vÃ¬^²S\u001fÕº¸hf»Ò²\u0087\u0012?\u0008z$Ýú÷OD,IbÜÃ ÂâW\u000f\u0083X\u0001\u0002q\u001fí\u0019HVU\u0095Õ\u00852þj\u0015\u000c°(üÞi\u0095k\u009bD\u0015\u0015Y8\u0096\'AI\u0086,N9\u00848q¡¬þ1\u0009\u0097~ð\u0003\u0081¨ß j\u0004\u0011î\u000bQ\u0001úæ\u0019Y\u0092O\u008e\u0091D\u0081¸7¡^é\u001a\u0015\u0092\u0086\u0089\u000b\u008cüÌÐYrKÍÈ.7\u0099\u0094{mg\u00218\u0005ÅÝS¦ùCVî\u0087;ø\rýH=e\u0019\u0088T6\u0095ÙÞ1$¬\u008b\u0001¹sr\u0082²\u001ejSË×Ï(~\u0010û\u008c\u0087\u0005,Åá( Ú\u0009\u0011\u0014Yz¡ \u0008\u0088&Ï\u0084\u0096Jù=²î1¶\u0083ýv\u009eñú\rJ.ûÁ&4_ÃÖ*5\u0095´T\u0001XÒÖò×;¥\u009aÚY\u0081æ9Å\u009e37fØÒÍV-£o­¶ê/½°÷oZË\u009fª)bõ\u0014â"\u009b[lC\'³\u008ejªÐ«X}×Z*N\u007fX-\u000f{=·42d\u0098.À×¬o\'\u007fvËw\u009eÄÈ\u000buÃ5ásX\u0096nX¯\u008d´F\u009c\u0099Ík³*2#gÖÒ9Õ\u000fÛ\u0085\u001dÐº\u0007g²ðþ\u0096w\u0012Z\u001eh\u0086kÃC\u0017;×Ðø~¼ÜèÈs\u009fÃËc\u00925j7¶\u009dÌ¨mÆÉ\u0092\u00049f©\u0098\u008då\u0085G?ú\u001c~äáU\u009f§Í5\u008eÚÂçhs-Nm2>\u008dô\u0080i\u009c\'«Ó8Þª\u001cÚd\u008c¯åÙq¼]Jäwä9¼ñÆ£\u008d7Þ8XV\u001co½çøÑâ\u008d7\u0005ÅyKRDÆ\u001ci¤\u000fÚF\u001cÚ8x\u001e8òfÏáå­ôí¾d\u001co<ü<\u0096;:úqy£\u001f\u0019yÙðÈÛ>\u0087çÎ\u009eçËl\u0095\u0093¥\n ^È(\u008có\u0004\'\u008e7ÀáG\u000e\u009e\u0015Ç\u001b~\u000eïuäo§aUßñÌayüÉ\u001bßßY\n£/yã\u009b\u0083õ:óWS\u009e9\u0010\u0007+\u0013Fmfp­;8x¦qà\u0015ùxðZ\u009e\u000e\u000e¼Á\u0093x\u0099*wÛ]Í2­ç±tÌÇÂ\u0000(1\u008bqZ®\u001dÒ\u0088Á\u0093F8péC\u0004\u0098<\u0011À\u0081K\u001d\u0002Àä\u0009\u0000\u001egræ\u0012\u001eGrv}\u001e\'rö|¬\u0088ñÊ\r\u0021ÆíÎ[vJ¸x\u009c+©\u0003+ÚëkM6\u0089\u0097ÄÚ*5>ÛKµ\u0016X¹yc#\u009cÞ\u0015ÑªüôûÓ\u009b"$a¶ºZ\u0086ndK<u=í:3³ì\u0094nØ}ï),Ëz"ËÕ\u008d|ºy=ë+\u008b\u000b\u0080é\u0095\u0006\u00991\u008d\u008e\u001bË\u0097öÒíÔç¼ë\u008cqÆ\u0091\u0017\u001b\u0090òÏ%£GñÏllcUüÚØfôí-»\u008e\\<Î\u009d\u0009ò\u0089û\u008d 1î\u0086çH^â\u008a=\u000eV~«ñÅ\u0003\u008f.üD\u0096¢qÅ\u009e\u0008N¯±\u0018³º½<ö|ÿbäI²$\u000cÄaW\u0092¤éÙÈ{\u0010ýLÜ\u0089@\u008ewV%À\u0086»e\u0093\u009aà\u0094kq\u009c{f"Äq\u008f\u0081HfÌÖàèÉðb;öj¹ÂØÑ\u008cÁ¼²;ß\u008e\u008fâ\u009fkI\u000e\u009e7âË2<¬\\\u008f/ò¹tÍ\u009eÈZre\u0019¤|Å9\u0092X÷XùC\u008f\u008fÇ\u0017{\u0084%£8\u0087AFÖ\r£9\u001f\u008fo4G\n\u0099\u0007Æ~|øÛØï4á¡ïF\u0011Y Ä$QR\u001e¾zâãqjS\u0001>\u008dr¬¬[ú#á)Wóøú£\u0000D\u0018ïÓ©\u008cCª\u0093âZ\u0094ü\u0086b]\u0013\u0018OCÙ\n\'êë\u0088\u001bú~F\u0010(\u0010EG\u001e\u008f\'Ü\u0014ÖcW\u0082¬ÊÒéU\u0005ã\u0016Ü\rÇ_~ç©\u000fOJ\\¼\u001bÂ\u0089O\u001f_ªàÓÆ\u0019º*\u0099rÄÓ\rü\u0088s\u008b*\u0006\u0018\u009dÎo\u0082G\u001cZÄ@Á±Ã°ð \u0011*\u0088\u0011âCN^b\u0004dõä&\u0085iæw=\u0003J§Ó\u009d\u008f\u0011\u0021\u009fZBT\u0098ö4®G(øë%¬|§\u0013ÝP<]È\u001b~X\u0093l­_I\u0010;1G\u0007½¿lg\u000ez«XÀ*8Í%\u0098æI×*\u0017¿\u009f%\u008f:áq\u0094 d5ºipíá\\\u0019\u008a§-6¨2.õ-ºÔw·\u0087\u0083F×-\u0010\u0009O\u008c»\u0007\u0082\u008c\u008b\u009bü6}X\u0090¶..\u0088\u0017\u008dI))Ja}\u001dn\u009eË>§\u0095ôÎxÚ\u008cY\'`øÈë]Ô\u008a±\\S\u001b{cÜLÊç\u0016ÿ¿ó\u0019Ï\u00053ñÏëU®åyÊ\u00917º¨w¬$«\u0083¹d~.\u0086ú%½\u008fáßSoêÈ\u009b]Ô;Z\u000eóCµ¬,;jé¹ì³ZÕS_\u0012\u0019û²k\u001dyËËZkSs\u009dßÏ\u0091,¾>\u0097}F+\u0016\u0091t|ÍÕ\u009d¬ú\u0097îD\u0021\u0004~*@\u0092N;\u0001"ãéì¬\u007f¬ðö¢³Ö\u008bFPÏî;uËlÿ\\yI\u0012NlÆ$ÇÄ>ç,\u000e\u009e\u0013\u001eyàòM¤Ün\u0095üÈ¦\u0005·Ò=\u001bô\u0084\u008f\u001fÂ?¯÷j\u009e]=òðE½«|`}T3íuc\u0094ù;\u009b1\u0010\u0098Ø,Z\u0019yVëÈS.\u000fÖR±Ó\u0017\u0017\u009baN\u0098³µí=ùwÔû:ò?ôÔátÓ¹+*#½¾®ËöÇLO­r©ôSÙg\u000ezpñ2³\u0003¯xQ«6s»u©-O$ë\u008eZYØ÷Ôj.\u000f¼Á%­\u009a³[I»¡Ø--\rã¹ì{j5À\u0081wé\u009aÕHOnÄ<Ü©\u0083m²U½_»²°ÏjUðém\u0002ã®£±õ\u0015\u0093gNðµúW¢e\u0012Ã­BÞ©üqaø\u0006_D2\u008dX\u000bbÙZJ¨\u0080Üø\u0002"½Ë\u008d\u007f¬äií\rYÏ\u0013Ü°åGyò\u0089\'²y\u0085{Âÿå\u0015z\u0088h+\u0018Ugmfl±õw¯\u0088ñT\u0019\n¬§\u0011ø7&\u007fç1Îþ87\nez;:fI\u008c7±oØ\u0004åãñmLr±nx7ÉÇã{7IYâµ¬\u001bî®ññøî®É"\u0000§¬ 0Æ\u009b\u001br\u009d\u0001àby>×{y>]Õ\'²Z\\g\u0000¸X7Ü5äâÝp×\u0090O\u001fg>þ\u008dÅºò7îÐ÷\u0019Ynê\u000eý\u0091U\u0097õD\u0096{\u0087¾Ïz\u008f\u009eq<\u008b§%\u0089yÙÓjµlÝë$E\u009c4òõy#ÝK\u0081Ä\u000b}»\u000bßßÿ\u0007\u0004Ä£5PP\u0000\u0000' \
+  --compressed ;
+curl 'https://yt3.ggpht.com/ytc/APkrFKaFFZPe4o-1v8wgdsu1whAnFhPEJqZkG_T5iluYpChSvFAQN7LQmSJuj-th0Mzl=s88-c-k-c0x00ffffff-no-rj' \
+  -H 'authority: yt3.ggpht.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://yt3.ggpht.com/ytc/APkrFKY-GSTOGKWKH9Clbo6mmaUToNjGfknptirME1dBRA=s88-c-k-c0x00ffffff-no-rj' \
+  -H 'authority: yt3.ggpht.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://yt3.ggpht.com/1Ew1zna1HiIJsRR9ZY42WUrgjH9lTifbLH2Fm-9_RTXC29sD58fquEsu9Sek7KjfGC_6Hw6uz9c=s88-c-k-c0x00ffffff-no-rj' \
+  -H 'authority: yt3.ggpht.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://yt3.ggpht.com/ytc/APkrFKajsfD7AOoCQbLCCTXIVz6RcDAESw_uVJppxl5ilw=s88-c-k-c0x00ffffff-no-rj' \
+  -H 'authority: yt3.ggpht.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://yt3.ggpht.com/ytc/APkrFKYwU6Ot-hkZOi237WdIgooqi9irHBc0XJ9usA=s88-c-k-c0x00ffffff-no-rj' \
+  -H 'authority: yt3.ggpht.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://yt3.ggpht.com/dF0y7PJQDzLQvaABYxsJ4UQowixPhDqGbAfVyao9n1zoAqvPvfY7itfKaTN6j7BFlrtUES2bTw=s88-c-k-c0x00ffffff-no-rj' \
+  -H 'authority: yt3.ggpht.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://yt3.ggpht.com/ytc/APkrFKZkBinDnFreZlFv3r2AG0yXwZ3gSRAQb_0vlbFFmQ=s88-c-k-c0x00ffffff-no-rj' \
+  -H 'authority: yt3.ggpht.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://yt3.ggpht.com/ytc/APkrFKZnSuN0sq-SafJOKwDh5qMofg4wmR6L1vgMOZMQ=s88-c-k-c0x00ffffff-no-rj' \
+  -H 'authority: yt3.ggpht.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://yt3.ggpht.com/ytc/APkrFKbWWMIYEHdPei2XbHsSYv1bVfw14VX4KepqLQ=s88-c-k-c0x00ffffff-no-rj' \
+  -H 'authority: yt3.ggpht.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://yt3.ggpht.com/ytc/APkrFKafrWCI0r7ZWaRCLHkjgPcTzjy9L3qkIdCsNA=s88-c-k-c0x00ffffff-no-rj' \
+  -H 'authority: yt3.ggpht.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://www.youtube.com/api/stats/qoe?fmt=137&afmt=251&cpn=8t2VGZaIzYiYnCA6&el=detailpage&ns=yt&fexp=v1%2C23858057%2C125239%2C2735%2C18613%2C2602%2C73492%2C54572%2C73455%2C162633%2C381%2C67582%2C60171%2C22664%2C1786%2C116%2C17228%2C1867%2C4%2C4%2C6585%2C672%2C8869%2C1089%2C5877%2C394%2C3200%2C18471%2C111541%2C26306282%2C4054%2C1253%2C677%2C5181%2C1543%2C4384%2C1968%2C2294%2C736%2C2040%2C5033%2C2196%2C739%2C120%2C406%2C3004%2C902%2C4935%2C80%2C3363%2C1930&cl=577682705&seq=12&docid=xizotopfVj8&ei=qWNCZcHJOOOGjuMPk5yOiA8&event=streamingstats&plid=AAYJGEVAWrCFgiEN&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxizotopfVj8&sdetail=rv%3AxizotopfVj8&sourceid=yw&qclc=ChA4dDJWR1phSXpZaVluQ0E2EAw&embargoed=0&cbr=Chrome&cbrver=118.0.0.0&c=WEB&cver=2.20231030.04.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&cmt=260.169:22.495,260.450:22.705,261.225:23.480,263.001:25.256,270.011:25.259&vps=260.169:B,260.450:PL,263.001:PA&bwe=270.011:1159815&bat=270.011:1:1&bh=270.011:149.049' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'X-YouTube-Device: cbr=Chrome&cbrver=118.0.0.0&ceng=WebKit&cengver=537.36&cos=Windows&cosver=10.0&cplatform=DESKTOP' \
+  -H 'X-Yt-Auth-Test: test' \
+  -H 'X-YouTube-Page-Label: youtube.desktop.web_20231030_04_RC00' \
+  -H 'X-YouTube-Page-CL: 577842696' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'X-YouTube-Utc-Offset: 330' \
+  -H 'X-Goog-AuthUser: 1' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'X-YouTube-Time-Zone: Asia/Calcutta' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'Referer: https://www.youtube.com/' \
+  -H 'X-YouTube-Client-Name: 1' \
+  -H 'X-YouTube-Client-Version: 2.20231030.04.00' \
+  -H 'X-Youtube-Identity-Token: QUFFLUhqa2FXRnRFOVBJc2NRaTZ6SG5qZjJNdmF6T1hIZ3w=' \
+  -H 'X-Goog-Visitor-Id: CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D' \
+  -H 'X-YouTube-Ad-Signals: dt=1698849705919&flash=0&frm&u_tz=330&u_his=1&u_h=723&u_w=954&u_ah=723&u_aw=954&u_cd=24&bc=31&bih=718&biw=930&brdim=7%2C0%2C7%2C0%2C954%2C0%2C954%2C723%2C947%2C718&vis=1&wgl=true&ca_type=image' \
+  --data-raw 'session_token=QUFFLUhqbkhmVVZkNjNnUVNtbE94Z0dndmMtdTJLSmpwQXxBQ3Jtc0tra0RNdkktbmVZWWlhYmFLWHhZWTJFaWd0OGRxejF2U3BqSk4zV19HaUxvendwcVZmNTU4dlR5R0FfakJIRVdWcTlpXzJfYzBWaXg3cWVOX2ZGZngwNlR1TTh1VldRQnF3NTdQbTFBUTJsUG9yanBLTQ%3D%3D' \
+  --compressed ;
+curl 'https://www.youtube.com/youtubei/v1/comment/create_comment?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8&prettyPrint=false' \
+  -H 'authority: www.youtube.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'authorization: SAPISIDHASH 1698849977_4178df7b458abe77423ae27cdc930b9d88e01250' \
+  -H 'content-type: application/json' \
+  -H 'cookie: VISITOR_INFO1_LIVE=LJZwTAMR2ZE; PREF=f4=4000000&f6=40000000&tz=Asia.Calcutta&f5=30000&f7=100; LOGIN_INFO=AFmmF2swRgIhAJ-L35PsMA_mCM3VKvGlvt5Z34LOTaCNuUOH6VWLKTJ3AiEAxTwRWGhKf5YLsFVBPvgEcuecj204mzbFz7ymi7KZdfM:QUQ3MjNmemtNTHVBcjJPMmdOSW4tdnpPYTBVOEJfYlBSdTd2cWpCUzBQZnVhLW9zUU9SdGFkQ25WMnM5VV85em9jM1YwTTN5aVV6Z2k1akJFb2t6anNucS01aHdCOEI4N3FzM3Utb19ScXplR1ZlY2tWR3ZYd2tSLTdiM0t4QnZKdHlPUEgtdmNodW1GNmhzYUxOREFXNXI0R2dsUy0xdU5R; VISITOR_PRIVACY_METADATA=CgJJThICGgA%3D; SID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZuZ0Jiok3t6MqUX7BdvQEmg.; __Secure-1PSIDTS=sidts-CjEB3e41hapHMZTCkbeu-KbekBtWBBhd2HVxwXcAWbIty0J33_G_2H8Smj5wei-IaXFqEAA; __Secure-3PSIDTS=sidts-CjEB3e41hapHMZTCkbeu-KbekBtWBBhd2HVxwXcAWbIty0J33_G_2H8Smj5wei-IaXFqEAA; __Secure-1PSID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZ9jgTEP7w-KJGLA1iNlYC7Q.; __Secure-3PSID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZ077-koLtjiIzAKv9JNG0Cw.; HSID=AtUW0l55wfIZAq0EA; SSID=A7pjPOG5Aw_Y9vTSN; APISID=IRnJk9nWv2sv-UCZ/AQrtpTVgvhyUHZhLo; SAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; __Secure-1PAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; __Secure-3PAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; YSC=kfCBqQhxUKw; SOCS=CAISNQgDEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjMwODI5LjA3X3AxGgJlbiADGgYIgJnPpwY; wide=1; SIDCC=ACA-OxOmJgZtyxNf8k875RUHMXpnBWsUUOZJNQzKkT_lyYO11UzVPwUpFO9h9ewNt7ZIA3eLww; __Secure-1PSIDCC=ACA-OxMmnjrS-kOPctAAGZqnF9_1TxTo1_Jq-_iIwJePkA6C3s-ciYQiFYamdGdzbovXdEF2uQ; __Secure-3PSIDCC=ACA-OxM7ofVIDiJQeqnpc3v2n0loJ0_szNmsjVBhiYwMf7jBvioSFkLASaGv-udWNmB2SAeWUxI' \
+  -H 'origin: https://www.youtube.com' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: same-origin' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'x-goog-authuser: 1' \
+  -H 'x-goog-visitor-id: CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D' \
+  -H 'x-origin: https://www.youtube.com' \
+  -H 'x-youtube-bootstrap-logged-in: true' \
+  -H 'x-youtube-client-name: 1' \
+  -H 'x-youtube-client-version: 2.20231030.04.00' \
+  --data-raw '{"context":{"client":{"hl":"en","gl":"IN","remoteHost":"180.151.122.132","deviceMake":"","deviceModel":"","visitorData":"CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36,gzip(gfe)","clientName":"WEB","clientVersion":"2.20231030.04.00","osName":"Windows","osVersion":"10.0","originalUrl":"https://www.youtube.com/watch?v=xizotopfVj8","screenPixelDensity":1,"platform":"DESKTOP","clientFormFactor":"UNKNOWN_FORM_FACTOR","configInfo":{"appInstallData":"CKnHiaoGEOPYrwUQq4KwBRDcgrAFEOvo_hIQ65OuBRC36v4SEOe6rwUQ2cmvBRDf2K8FENDirwUQ6sOvBRC8-a8FELzrrwUQqfevBRC0ya8FEK76rwUQg9-vBRDM364FEL75rwUQqIGwBRDV5a8FEKXC_hIQvbauBRC4i64FEKaBsAUQ_IWwBRCHh7AFENShrwUQvYqwBRD1-a8FENvYrwUQ26-vBRDuhLAFEP_1_hIQ5LP-EhCh168FEJTZ_hIQieiuBRC3-f4SEOno_hIQzK7-EhDJ968FEKf3rwUQiOOvBRD6vq8FEN3o_hIQt--vBRDi1K4FENSIsAUQtaavBRDX6a8FEKy3rwUQv_evBRDT4a8FEO6irwUQ94mwBRCa8K8FEK72rwUQqIKwBRDX_68FEO3RrwUQuYawBRD6-v4SEMz0rwU%3D"},"screenDensityFloat":1.25,"userInterfaceTheme":"USER_INTERFACE_THEME_DARK","timeZone":"Asia/Calcutta","browserName":"Chrome","browserVersion":"118.0.0.0","acceptHeader":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8","deviceExperimentId":"ChxOekk1TmpVd016a3lOVEU0TWpFeE1ERTFPUT09EKnHiaoGGKnHiaoG","screenWidthPoints":947,"screenHeightPoints":718,"utcOffsetMinutes":330,"memoryTotalKbytes":"500000","mainAppWebInfo":{"graftUrl":"https://www.youtube.com/watch?v=xizotopfVj8","pwaInstallabilityStatus":"PWA_INSTALLABILITY_STATUS_CAN_BE_INSTALLED","webDisplayMode":"WEB_DISPLAY_MODE_BROWSER","isWebNativeShareAvailable":true}},"user":{"lockedSafetyMode":false},"request":{"useSsl":true,"internalExperimentFlags":[],"consistencyTokenJars":[]},"clientScreenNonce":"MC4xMjIxNTIxMDg5NzIwMjE.","clickTracking":{"clickTrackingParams":"CKEDEPBbIhMIs8KhjYWjggMVkE71BR1HLQJ-"},"adSignalsInfo":{"params":[{"key":"dt","value":"1698849706367"},{"key":"flash","value":"0"},{"key":"frm","value":"0"},{"key":"u_tz","value":"330"},{"key":"u_his","value":"1"},{"key":"u_h","value":"723"},{"key":"u_w","value":"954"},{"key":"u_ah","value":"723"},{"key":"u_aw","value":"954"},{"key":"u_cd","value":"24"},{"key":"bc","value":"31"},{"key":"bih","value":"718"},{"key":"biw","value":"930"},{"key":"brdim","value":"7,0,7,0,954,0,954,723,947,718"},{"key":"vis","value":"1"},{"key":"wgl","value":"true"},{"key":"ca_type","value":"image"}]}},"createCommentParams":"Egt4aXpvdG9wZlZqOCoCCABQBw%3D%3D","commentText":"comment through command line"}' \
+  --compressed ;
+curl 'https://www.youtube.com/youtubei/v1/att/log?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8&prettyPrint=false' \
+  -H 'authority: www.youtube.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'authorization: SAPISIDHASH 1698849979_220e59b917dece21804501d46f747e4a7f0d4eaf' \
+  -H 'content-type: application/json' \
+  -H 'cookie: VISITOR_INFO1_LIVE=LJZwTAMR2ZE; PREF=f4=4000000&f6=40000000&tz=Asia.Calcutta&f5=30000&f7=100; LOGIN_INFO=AFmmF2swRgIhAJ-L35PsMA_mCM3VKvGlvt5Z34LOTaCNuUOH6VWLKTJ3AiEAxTwRWGhKf5YLsFVBPvgEcuecj204mzbFz7ymi7KZdfM:QUQ3MjNmemtNTHVBcjJPMmdOSW4tdnpPYTBVOEJfYlBSdTd2cWpCUzBQZnVhLW9zUU9SdGFkQ25WMnM5VV85em9jM1YwTTN5aVV6Z2k1akJFb2t6anNucS01aHdCOEI4N3FzM3Utb19ScXplR1ZlY2tWR3ZYd2tSLTdiM0t4QnZKdHlPUEgtdmNodW1GNmhzYUxOREFXNXI0R2dsUy0xdU5R; VISITOR_PRIVACY_METADATA=CgJJThICGgA%3D; SID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZuZ0Jiok3t6MqUX7BdvQEmg.; __Secure-1PSIDTS=sidts-CjEB3e41hapHMZTCkbeu-KbekBtWBBhd2HVxwXcAWbIty0J33_G_2H8Smj5wei-IaXFqEAA; __Secure-3PSIDTS=sidts-CjEB3e41hapHMZTCkbeu-KbekBtWBBhd2HVxwXcAWbIty0J33_G_2H8Smj5wei-IaXFqEAA; __Secure-1PSID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZ9jgTEP7w-KJGLA1iNlYC7Q.; __Secure-3PSID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZ077-koLtjiIzAKv9JNG0Cw.; HSID=AtUW0l55wfIZAq0EA; SSID=A7pjPOG5Aw_Y9vTSN; APISID=IRnJk9nWv2sv-UCZ/AQrtpTVgvhyUHZhLo; SAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; __Secure-1PAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; __Secure-3PAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; YSC=kfCBqQhxUKw; SOCS=CAISNQgDEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjMwODI5LjA3X3AxGgJlbiADGgYIgJnPpwY; wide=1; SIDCC=ACA-OxPgapv4PTwgyQswOvjF4kbStSEMToh12caBJ8a94cNRf9swSmKyb22930yMaSSKKI5sVA; __Secure-1PSIDCC=ACA-OxOgvk7YthDZJeNPlv4NpgpmrFs2jd1eRgsr7jO8ACkZXkq9CRyjzzms8PTxXCxFLm_2Sw; __Secure-3PSIDCC=ACA-OxN2um23_7SbN1I_3bVCq9zs1dTG6DU6LnMmqMM1io99Ipw5F-NDdMtTfDJWa8S8WjDrQqw; CONSISTENCY=AKreu9uaM2s_SilMSPWxAo_iP3o_jKIV0UcrmdlKcBB4cmvFCqEIn57sRpo8hjd9xzU24nk_zT3JX97IjHT46wmCiMcbxPkpSSTBJw' \
+  -H 'origin: https://www.youtube.com' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: same-origin' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'x-goog-authuser: 1' \
+  -H 'x-goog-visitor-id: CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D' \
+  -H 'x-origin: https://www.youtube.com' \
+  -H 'x-youtube-bootstrap-logged-in: true' \
+  -H 'x-youtube-client-name: 1' \
+  -H 'x-youtube-client-version: 2.20231030.04.00' \
+  --data-raw '{"challenge":"a=6&a2=10&b=AvbZf2bpQsVyk13EChUaYmRjNKE&c=1698849709&d=1&t=7200&c1a=1&x4=1&hh=TWaNQO97QxNnmQ1MdNr_BCQbCRmiEnyM-0z-mLmBrNo","webResponse":"$hhk5GUFRAAZKauMsamreH2i1q7BHhYenADQBEArZ1O9JLBBHDIVbZKenpesVDFHpfkC7GcCvtokGPH2lwOEn0UdLjKlE_ljJng-sLS05ngAAADXOAAAACvQBBwUDpVebrXtgHENXLgpAJhokYxYuGz9eurRQfD216_oYwwdQKHfa2cPGxi8z0UTa9VMsZ_3QYGiGtcLZPUFgojyhP5CeD3HkowvCsEPUyn9X5qg7FvhcamlwfPuhpbgoHXNWFxoS0N4lSjZ2Hi_Y7mJHuHl_JsMcBM-zX7c9iYsbt0juZ3YMqKliBdDtZ83LwR59U7pMOfE4_lxhWMm1g8aQEhIqlf5pZ9tC-QM5MF7wWIP9-4s3adBfIyXPw0aSpEvH9Lqc_bsfgBwLKrGuYor0_vkBwRLUtO54AjQt3ntz8FVk_XP34jtZFC-BOV2WPJgIRPsQXUc69fHUXvMpHoy652pRuhh2L8GXA0fi4iR0KKJUP_ACUJAYRiAuMHYUuYVD5_Gm8La75uKtX3foIGjlLJ53ZckljnH04lt-oGuBNdfqWoSYO7FDKuaHfj_RBKna-76BHogN0MI_LcrcF-muzDJ4FiDqFomIe5Ye5DzDwsE6alwK2nzKEuKAvoUmX9OVV3PHrYpOG7KGCxBBtz--oss0K_tHNoZ_el3il4aW2znYegnBK-2zKlmFpMvCucYrKN6RCWpaRaj4FT_5d6r9oaXHSOdofiKGPmXcTbigxp63VRMUYv-8ppZuiXg2AF4MZR_dIfS-ALAPc2iAkDB5hOuJ4W3yfzYcVy-9BJxgCzkNyBKUD_RSFw0pvTm6C_nFPJ5lQ7MD1Cy1U_2knRnFDhQq5OmSkv3TaSMffRGNSZySDUHykrOqSndr_6NYAsN4zFI0raCc-HPbnt0BshAN581nxPIJIfzQgGMZp4kfEBJWNGAYEVZv9WrUSBkYrPMIVdA4OV7cQDl2S5EFwf06XLrbwKZpuL5H8cAw6XGILWI8bzbB-Q_iAnKZxw9Zh2hFcQFvrQ3Q-Oa7FtnxqeCvywqynn1WqWq3VNJs8r5-XhsMISPUdtGB0-MtDnstysdfiD5VxoP7i-P2IP93InOWAg37e_EGooPCgBe0SggXtu-ojt91GOlefAz5HLSwV93A42g9t3zhKFsE1xxKeiH2zGS8_8lOa-KRLldDX_KY6UzJqh5TvdguGPOuKA9E1uz336evHhczD3iZzQ_wTz6gYA-tnIQszlwTa7ezoI3sfsda-E00w1VKLGHUQM9S9lTc9IkIMc9ZABG1SrX1r7g4EvZmP6fYWbNRcjaziSXyyuZKnAyOluclccNo0Qe7YCI-wm0eQ3iwDO_Yw9NuJKhnczl4KhtPFw","engagementType":"ENGAGEMENT_TYPE_COMMENT_POST","ids":[{"commentId":"Ugx_K59IrA_VmTVjmfl4AaABAg"},{"encryptedVideoId":"xizotopfVj8"},{"externalChannelId":"UCE1_bZxswCCARhhVeSQLuew"}],"context":{"client":{"hl":"en","gl":"IN","remoteHost":"180.151.122.132","deviceMake":"","deviceModel":"","visitorData":"CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36,gzip(gfe)","clientName":"WEB","clientVersion":"2.20231030.04.00","osName":"Windows","osVersion":"10.0","originalUrl":"https://www.youtube.com/watch?v=xizotopfVj8","screenPixelDensity":1,"platform":"DESKTOP","clientFormFactor":"UNKNOWN_FORM_FACTOR","configInfo":{"appInstallData":"CKnHiaoGEOPYrwUQq4KwBRDcgrAFEOvo_hIQ65OuBRC36v4SEOe6rwUQ2cmvBRDf2K8FENDirwUQ6sOvBRC8-a8FELzrrwUQqfevBRC0ya8FEK76rwUQg9-vBRDM364FEL75rwUQqIGwBRDV5a8FEKXC_hIQvbauBRC4i64FEKaBsAUQ_IWwBRCHh7AFENShrwUQvYqwBRD1-a8FENvYrwUQ26-vBRDuhLAFEP_1_hIQ5LP-EhCh168FEJTZ_hIQieiuBRC3-f4SEOno_hIQzK7-EhDJ968FEKf3rwUQiOOvBRD6vq8FEN3o_hIQt--vBRDi1K4FENSIsAUQtaavBRDX6a8FEKy3rwUQv_evBRDT4a8FEO6irwUQ94mwBRCa8K8FEK72rwUQqIKwBRDX_68FEO3RrwUQuYawBRD6-v4SEMz0rwU%3D"},"screenDensityFloat":1.25,"userInterfaceTheme":"USER_INTERFACE_THEME_DARK","timeZone":"Asia/Calcutta","browserName":"Chrome","browserVersion":"118.0.0.0","acceptHeader":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8","deviceExperimentId":"ChxOekk1TmpVd016a3lOVEU0TWpFeE1ERTFPUT09EKnHiaoGGKnHiaoG","screenWidthPoints":947,"screenHeightPoints":718,"utcOffsetMinutes":330,"memoryTotalKbytes":"500000","mainAppWebInfo":{"graftUrl":"https://www.youtube.com/watch?v=xizotopfVj8","pwaInstallabilityStatus":"PWA_INSTALLABILITY_STATUS_CAN_BE_INSTALLED","webDisplayMode":"WEB_DISPLAY_MODE_BROWSER","isWebNativeShareAvailable":true}},"user":{"lockedSafetyMode":false},"request":{"useSsl":true,"internalExperimentFlags":[],"consistencyTokenJars":[{"encryptedTokenJarContents":"AKreu9uaM2s_SilMSPWxAo_iP3o_jKIV0UcrmdlKcBB4cmvFCqEIn57sRpo8hjd9xzU24nk_zT3JX97IjHT46wmCiMcbxPkpSSTBJw","expirationSeconds":"600"}]},"adSignalsInfo":{"params":[{"key":"dt","value":"1698849706367"},{"key":"flash","value":"0"},{"key":"frm","value":"0"},{"key":"u_tz","value":"330"},{"key":"u_his","value":"1"},{"key":"u_h","value":"723"},{"key":"u_w","value":"954"},{"key":"u_ah","value":"723"},{"key":"u_aw","value":"954"},{"key":"u_cd","value":"24"},{"key":"bc","value":"31"},{"key":"bih","value":"718"},{"key":"biw","value":"930"},{"key":"brdim","value":"7,0,7,0,954,0,954,723,947,718"},{"key":"vis","value":"1"},{"key":"wgl","value":"true"},{"key":"ca_type","value":"image"}]}}}' \
+  --compressed ;
+curl 'https://yt3.ggpht.com/ytc/APkrFKa3gUptWfKSXu9kvxetrCOm1QuUHLJoFx00RHMZOls=s88-c-k-c0x00ffffff-no-rj' \
+  -H 'authority: yt3.ggpht.com' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  --compressed ;
+curl 'https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailpage&cpn=8t2VGZaIzYiYnCA6&ver=2&cmt=28.996&fmt=137&fs=0&rt=280.012&euri&lact=2190&cl=577682705&state=playing&volume=95%2C95%2C95%2C95%2C95&cbr=Chrome&cbrver=118.0.0.0&c=WEB&cver=2.20231030.04.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&hl=en_US&cr=IN&uga=m22&len=149.081&rtn=320&afmt=251&idpj=-8&ldpj=-3&rti=280&st=15.532%2C19.76%2C20.804%2C22.435%2C25.259&et=19.76%2C20.804%2C22.435%2C25.259%2C28.996&muted=0%2C0%2C0%2C0%2C0&docid=xizotopfVj8&ei=qWNCZcHJOOOGjuMPk5yOiA8&plid=AAYJGEVAWrCFgiEN&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxizotopfVj8&sdetail=rv%3AxizotopfVj8&sourceid=yw&of=_qCnwGk-KWlmu42OAuiBCg&vm=CAEQABgEOjJBRzZGdTI1SjRUVks4ZU1DdUxwQjlVSF9yaU93cWFuNlhfTVYwZXAyLWd0elptaGh5UWKUAUFQbWtLRElwMDBrODY3WFVjb3lKUTVOcnpYdTRMTTBsLXNiV29FYzk5MzlnaVRaaFplNEhsTnRPMVNoYUQxTWMwUjVuQWFKeVpmbDFnVkdXUUZWc2VCM0dJa01WdTNhZExzN2hCcFc2LU5ZMGxheWlFZEVmdUlsNG51Wllob1lnUkx2cGJsRW0tbWJHRjZ1WXpUQVBoAQ' \
+  -H 'authority: www.youtube.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'cookie: VISITOR_INFO1_LIVE=LJZwTAMR2ZE; PREF=f4=4000000&f6=40000000&tz=Asia.Calcutta&f5=30000&f7=100; LOGIN_INFO=AFmmF2swRgIhAJ-L35PsMA_mCM3VKvGlvt5Z34LOTaCNuUOH6VWLKTJ3AiEAxTwRWGhKf5YLsFVBPvgEcuecj204mzbFz7ymi7KZdfM:QUQ3MjNmemtNTHVBcjJPMmdOSW4tdnpPYTBVOEJfYlBSdTd2cWpCUzBQZnVhLW9zUU9SdGFkQ25WMnM5VV85em9jM1YwTTN5aVV6Z2k1akJFb2t6anNucS01aHdCOEI4N3FzM3Utb19ScXplR1ZlY2tWR3ZYd2tSLTdiM0t4QnZKdHlPUEgtdmNodW1GNmhzYUxOREFXNXI0R2dsUy0xdU5R; VISITOR_PRIVACY_METADATA=CgJJThICGgA%3D; SID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZuZ0Jiok3t6MqUX7BdvQEmg.; __Secure-1PSIDTS=sidts-CjEB3e41hapHMZTCkbeu-KbekBtWBBhd2HVxwXcAWbIty0J33_G_2H8Smj5wei-IaXFqEAA; __Secure-3PSIDTS=sidts-CjEB3e41hapHMZTCkbeu-KbekBtWBBhd2HVxwXcAWbIty0J33_G_2H8Smj5wei-IaXFqEAA; __Secure-1PSID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZ9jgTEP7w-KJGLA1iNlYC7Q.; __Secure-3PSID=cAhcJYSzOBdCMFbjZkVIolZsf_8d0JDR3rK3PV1AyKlOP7WZ077-koLtjiIzAKv9JNG0Cw.; HSID=AtUW0l55wfIZAq0EA; SSID=A7pjPOG5Aw_Y9vTSN; APISID=IRnJk9nWv2sv-UCZ/AQrtpTVgvhyUHZhLo; SAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; __Secure-1PAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; __Secure-3PAPISID=YXxlAdrRyGRzXOjC/AWi-XlsRW1DZ25bCI; YSC=kfCBqQhxUKw; SOCS=CAISNQgDEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjMwODI5LjA3X3AxGgJlbiADGgYIgJnPpwY; wide=1; CONSISTENCY=AKreu9uaM2s_SilMSPWxAo_iP3o_jKIV0UcrmdlKcBB4cmvFCqEIn57sRpo8hjd9xzU24nk_zT3JX97IjHT46wmCiMcbxPkpSSTBJw; SIDCC=ACA-OxOBukINo2OXBCg0Drc5kRzxQST3kcADjBynKTpJreehyvDJWVpGkELefOv5Hgn8GmraBg; __Secure-1PSIDCC=ACA-OxMYsqied9J7wKySHEJStC2bPRTB7kzFfguSzRSdP_CyD6k-92EjYN2HBYqbhpy6VGGeIA; __Secure-3PSIDCC=ACA-OxNLF13Mt1EHIl5hypDb9I6e4ZmzVDS3fHq8VKl_gTrvrCSNpcCKijqC5WDY2umR46ZFTDM' \
+  -H 'referer: https://www.youtube.com/' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'x-goog-authuser: 1' \
+  -H 'x-goog-request-time: 1698849985999' \
+  -H 'x-goog-visitor-id: CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D' \
+  -H 'x-youtube-ad-signals: dt=1698849705919&flash=0&frm&u_tz=330&u_his=1&u_h=723&u_w=954&u_ah=723&u_aw=954&u_cd=24&bc=31&bih=718&biw=930&brdim=7%2C0%2C7%2C0%2C954%2C0%2C954%2C723%2C947%2C718&vis=1&wgl=true&ca_type=image' \
+  -H 'x-youtube-client-name: 1' \
+  -H 'x-youtube-client-version: 2.20231030.04.00' \
+  -H 'x-youtube-device: cbr=Chrome&cbrver=118.0.0.0&ceng=WebKit&cengver=537.36&cos=Windows&cosver=10.0&cplatform=DESKTOP' \
+  -H 'x-youtube-identity-token: QUFFLUhqa2FXRnRFOVBJc2NRaTZ6SG5qZjJNdmF6T1hIZ3w=' \
+  -H 'x-youtube-page-cl: 577842696' \
+  -H 'x-youtube-page-label: youtube.desktop.web_20231030_04_RC00' \
+  -H 'x-youtube-time-zone: Asia/Calcutta' \
+  -H 'x-youtube-utc-offset: 330' \
+  -H 'x-yt-auth-test: test' \
+  --compressed ;
+curl 'https://www.youtube.com/api/stats/qoe?fmt=137&afmt=251&cpn=8t2VGZaIzYiYnCA6&el=detailpage&ns=yt&fexp=v1%2C23858057%2C125239%2C2735%2C18613%2C2602%2C73492%2C54572%2C73455%2C162633%2C381%2C67582%2C60171%2C22664%2C1786%2C116%2C17228%2C1867%2C4%2C4%2C6585%2C672%2C8869%2C1089%2C5877%2C394%2C3200%2C18471%2C111541%2C26306282%2C4054%2C1253%2C677%2C5181%2C1543%2C4384%2C1968%2C2294%2C736%2C2040%2C5033%2C2196%2C739%2C120%2C406%2C3004%2C902%2C4935%2C80%2C3363%2C1930&cl=577682705&seq=13&docid=xizotopfVj8&ei=qWNCZcHJOOOGjuMPk5yOiA8&event=streamingstats&plid=AAYJGEVAWrCFgiEN&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxizotopfVj8&sdetail=rv%3AxizotopfVj8&sourceid=yw&qclc=ChA4dDJWR1phSXpZaVluQ0E2EA0&embargoed=0&cbr=Chrome&cbrver=118.0.0.0&c=WEB&cver=2.20231030.04.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&cmt=276.296:25.315,276.569:25.553,277.319:26.304,280.014:28.999&vps=276.296:B,276.569:PL,280.014:PL&bwe=280.014:1159815&bat=280.014:1:1&bh=280.014:149.049&df=280.014:1' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'X-YouTube-Device: cbr=Chrome&cbrver=118.0.0.0&ceng=WebKit&cengver=537.36&cos=Windows&cosver=10.0&cplatform=DESKTOP' \
+  -H 'X-Yt-Auth-Test: test' \
+  -H 'X-YouTube-Page-Label: youtube.desktop.web_20231030_04_RC00' \
+  -H 'X-YouTube-Page-CL: 577842696' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'X-YouTube-Utc-Offset: 330' \
+  -H 'X-Goog-AuthUser: 1' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'X-YouTube-Time-Zone: Asia/Calcutta' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'Referer: https://www.youtube.com/' \
+  -H 'X-YouTube-Client-Name: 1' \
+  -H 'X-YouTube-Client-Version: 2.20231030.04.00' \
+  -H 'X-Youtube-Identity-Token: QUFFLUhqa2FXRnRFOVBJc2NRaTZ6SG5qZjJNdmF6T1hIZ3w=' \
+  -H 'X-Goog-Visitor-Id: CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D' \
+  -H 'X-YouTube-Ad-Signals: dt=1698849705919&flash=0&frm&u_tz=330&u_his=1&u_h=723&u_w=954&u_ah=723&u_aw=954&u_cd=24&bc=31&bih=718&biw=930&brdim=7%2C0%2C7%2C0%2C954%2C0%2C954%2C723%2C947%2C718&vis=1&wgl=true&ca_type=image' \
+  --data-raw 'session_token=QUFFLUhqbkhmVVZkNjNnUVNtbE94Z0dndmMtdTJLSmpwQXxBQ3Jtc0tra0RNdkktbmVZWWlhYmFLWHhZWTJFaWd0OGRxejF2U3BqSk4zV19HaUxvendwcVZmNTU4dlR5R0FfakJIRVdWcTlpXzJfYzBWaXg3cWVOX2ZGZngwNlR1TTh1VldRQnF3NTdQbTFBUTJsUG9yanBLTQ%3D%3D' \
+  --compressed ;
+curl 'https://www.youtube.com/api/stats/qoe?fmt=137&afmt=251&cpn=8t2VGZaIzYiYnCA6&el=detailpage&ns=yt&fexp=v1%2C23858057%2C125239%2C2735%2C18613%2C2602%2C73492%2C54572%2C73455%2C162633%2C381%2C67582%2C60171%2C22664%2C1786%2C116%2C17228%2C1867%2C4%2C4%2C6585%2C672%2C8869%2C1089%2C5877%2C394%2C3200%2C18471%2C111541%2C26306282%2C4054%2C1253%2C677%2C5181%2C1543%2C4384%2C1968%2C2294%2C736%2C2040%2C5033%2C2196%2C739%2C120%2C406%2C3004%2C902%2C4935%2C80%2C3363%2C1930&cl=577682705&seq=14&docid=xizotopfVj8&ei=qWNCZcHJOOOGjuMPk5yOiA8&event=streamingstats&plid=AAYJGEVAWrCFgiEN&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxizotopfVj8&sdetail=rv%3AxizotopfVj8&sourceid=yw&qclc=ChA4dDJWR1phSXpZaVluQ0E2EA4&embargoed=0&cbr=Chrome&cbrver=118.0.0.0&c=WEB&cver=2.20231030.04.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&cmt=285.567:34.552,286.662:34.615,286.918:34.803,287.670:35.554,290.011:37.896&vps=285.567:PA,286.662:B,286.918:PL,290.011:PL&bwe=290.011:1159815&bat=290.011:1:1&bh=290.011:149.049' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'X-YouTube-Device: cbr=Chrome&cbrver=118.0.0.0&ceng=WebKit&cengver=537.36&cos=Windows&cosver=10.0&cplatform=DESKTOP' \
+  -H 'X-Yt-Auth-Test: test' \
+  -H 'X-YouTube-Page-Label: youtube.desktop.web_20231030_04_RC00' \
+  -H 'X-YouTube-Page-CL: 577842696' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'X-YouTube-Utc-Offset: 330' \
+  -H 'X-Goog-AuthUser: 1' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'X-YouTube-Time-Zone: Asia/Calcutta' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'Referer: https://www.youtube.com/' \
+  -H 'X-YouTube-Client-Name: 1' \
+  -H 'X-YouTube-Client-Version: 2.20231030.04.00' \
+  -H 'X-Youtube-Identity-Token: QUFFLUhqa2FXRnRFOVBJc2NRaTZ6SG5qZjJNdmF6T1hIZ3w=' \
+  -H 'X-Goog-Visitor-Id: CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D' \
+  -H 'X-YouTube-Ad-Signals: dt=1698849705919&flash=0&frm&u_tz=330&u_his=1&u_h=723&u_w=954&u_ah=723&u_aw=954&u_cd=24&bc=31&bih=718&biw=930&brdim=7%2C0%2C7%2C0%2C954%2C0%2C954%2C723%2C947%2C718&vis=1&wgl=true&ca_type=image' \
+  --data-raw 'session_token=QUFFLUhqbkhmVVZkNjNnUVNtbE94Z0dndmMtdTJLSmpwQXxBQ3Jtc0tra0RNdkktbmVZWWlhYmFLWHhZWTJFaWd0OGRxejF2U3BqSk4zV19HaUxvendwcVZmNTU4dlR5R0FfakJIRVdWcTlpXzJfYzBWaXg3cWVOX2ZGZngwNlR1TTh1VldRQnF3NTdQbTFBUTJsUG9yanBLTQ%3D%3D' \
+  --compressed ;
+curl 'https://play.google.com/log?format=json&hasfast=true&authuser=0' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'Authorization: SAPISIDHASH 1a642131e13943cbcae2215604d6188736cbd6a6' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'Content-Type: application/x-www-form-urlencoded;charset=UTF-8' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'Referer: https://www.youtube.com/' \
+  -H 'X-Goog-AuthUser: 0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  --data-raw '[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,"en",null,null,null,null,[1,0,4,0,0]]],1828,[["1698849738805",null,[],null,null,null,null,"[[[\"/client_streamz/bg/fil\",null,[\"rk\",\"ke\"],[[[[\"dzS90e\"],[\"_\"]],[null,67]]],null,[]],[\"/client_streamz/bg/fic\",null,[\"ke\"],[[[[\"_\"]],[1]]],null,[]]]]",null,null,null,null,null,null,-19800,null,null,null,null,[],1,null,null,null,null,null,[]],["1698850009605",null,[],null,null,null,null,"[[[\"/client_streamz/bg/fsc\",null,[\"rk\",\"ke\"],[[[[\"dzS90e\"],[\"_\"]],[1]]],null,[]],[\"/client_streamz/bg/fsl\",null,[\"rk\",\"ke\"],[[[[\"dzS90e\"],[\"_\"]],[null,46]]],null,[]]]]",null,null,null,null,null,null,-19800,null,null,null,null,[],2,null,null,null,null,null,[]]],"1698850009605",[]]' \
+  --compressed ;
+curl 'https://www.youtube.com/api/stats/qoe?fmt=137&afmt=251&cpn=8t2VGZaIzYiYnCA6&el=detailpage&ns=yt&fexp=v1%2C23858057%2C125239%2C2735%2C18613%2C2602%2C73492%2C54572%2C73455%2C162633%2C381%2C67582%2C60171%2C22664%2C1786%2C116%2C17228%2C1867%2C4%2C4%2C6585%2C672%2C8869%2C1089%2C5877%2C394%2C3200%2C18471%2C111541%2C26306282%2C4054%2C1253%2C677%2C5181%2C1543%2C4384%2C1968%2C2294%2C736%2C2040%2C5033%2C2196%2C739%2C120%2C406%2C3004%2C902%2C4935%2C80%2C3363%2C1930&cl=577682705&seq=15&docid=xizotopfVj8&ei=qWNCZcHJOOOGjuMPk5yOiA8&event=streamingstats&plid=AAYJGEVAWrCFgiEN&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxizotopfVj8&sdetail=rv%3AxizotopfVj8&sourceid=yw&qclc=ChA4dDJWR1phSXpZaVluQ0E2EA8&embargoed=0&cbr=Chrome&cbrver=118.0.0.0&c=WEB&cver=2.20231030.04.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&cmt=300.064:47.949,310.010:47.952&vps=300.064:PA&bwe=310.010:1159815&bat=310.010:1:1&bh=310.010:149.049' \
+  -H 'sec-ch-ua: "Chromium";v="118", "Brave";v="118", "Not=A?Brand";v="99"' \
+  -H 'X-YouTube-Device: cbr=Chrome&cbrver=118.0.0.0&ceng=WebKit&cengver=537.36&cos=Windows&cosver=10.0&cplatform=DESKTOP' \
+  -H 'X-Yt-Auth-Test: test' \
+  -H 'X-YouTube-Page-Label: youtube.desktop.web_20231030_04_RC00' \
+  -H 'X-YouTube-Page-CL: 577842696' \
+  -H 'sec-ch-ua-platform-version: "15.0.0"' \
+  -H 'X-YouTube-Utc-Offset: 330' \
+  -H 'X-Goog-AuthUser: 1' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'X-YouTube-Time-Zone: Asia/Calcutta' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'Referer: https://www.youtube.com/' \
+  -H 'X-YouTube-Client-Name: 1' \
+  -H 'X-YouTube-Client-Version: 2.20231030.04.00' \
+  -H 'X-Youtube-Identity-Token: QUFFLUhqa2FXRnRFOVBJc2NRaTZ6SG5qZjJNdmF6T1hIZ3w=' \
+  -H 'X-Goog-Visitor-Id: CgtMSlp3VEFNUjJaRSipx4mqBjIICgJJThICGgA%3D' \
+  -H 'X-YouTube-Ad-Signals: dt=1698849705919&flash=0&frm&u_tz=330&u_his=1&u_h=723&u_w=954&u_ah=723&u_aw=954&u_cd=24&bc=31&bih=718&biw=930&brdim=7%2C0%2C7%2C0%2C954%2C0%2C954%2C723%2C947%2C718&vis=1&wgl=true&ca_type=image' \
+  --data-raw 'session_token=QUFFLUhqbkhmVVZkNjNnUVNtbE94Z0dndmMtdTJLSmpwQXxBQ3Jtc0tra0RNdkktbmVZWWlhYmFLWHhZWTJFaWd0OGRxejF2U3BqSk4zV19HaUxvendwcVZmNTU4dlR5R0FfakJIRVdWcTlpXzJfYzBWaXg3cWVOX2ZGZngwNlR1TTh1VldRQnF3NTdQbTFBUTJsUG9yanBLTQ%3D%3D' \
+  --compressed

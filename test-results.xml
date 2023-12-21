@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-21T12:07:06 IST" name="API Test for QTRIP" finished-at="2023-12-21T12:07:25 IST" duration-ms="19226">
+    <groups>
+      <group name="API TESTING">
+        <method signature="testCase_API_01.TestCase01()[pri:0, instance:qtriptest.APITests.testCase_API_01@15a34df2]" name="TestCase01" class="qtriptest.APITests.testCase_API_01"/>
+        <method signature="testCase_API_02.TestCase02()[pri:0, instance:qtriptest.APITests.testCase_API_02@26abb146]" name="TestCase02" class="qtriptest.APITests.testCase_API_02"/>
+        <method signature="testCase_API_03.TestCase03()[pri:0, instance:qtriptest.APITests.testCase_API_03@72c8e7b]" name="TestCase03" class="qtriptest.APITests.testCase_API_03"/>
+        <method signature="testCase_API_04.TestCase04()[pri:0, instance:qtriptest.APITests.testCase_API_04@65f8f5ae]" name="TestCase04" class="qtriptest.APITests.testCase_API_04"/>
+      </group> <!-- API TESTING -->
+    </groups>
+    <test started-at="2023-12-21T12:07:06 IST" name="TestCase" finished-at="2023-12-21T12:07:25 IST" duration-ms="19226">
+      <class name="qtriptest.APITests.testCase_API_01">
+        <test-method signature="TestCase01()[pri:0, instance:qtriptest.APITests.testCase_API_01@15a34df2]" started-at="2023-12-21T12:07:06 IST" name="TestCase01" description="Verify new user can be registered and login using APIs of QTrip" finished-at="2023-12-21T12:07:16 IST" duration-ms="10138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase01 -->
+      </class> <!-- qtriptest.APITests.testCase_API_01 -->
+      <class name="qtriptest.APITests.testCase_API_02">
+        <test-method signature="TestCase02()[pri:0, instance:qtriptest.APITests.testCase_API_02@26abb146]" started-at="2023-12-21T12:07:16 IST" name="TestCase02" description="Verify that the search City API Returns the correct number of results" finished-at="2023-12-21T12:07:19 IST" duration-ms="3538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase02 -->
+      </class> <!-- qtriptest.APITests.testCase_API_02 -->
+      <class name="qtriptest.APITests.testCase_API_03">
+        <test-method signature="TestCase03()[pri:0, instance:qtriptest.APITests.testCase_API_03@72c8e7b]" started-at="2023-12-21T12:07:19 IST" name="TestCase03" description="Verify new user can be registered and login using APIs of QTrip" finished-at="2023-12-21T12:07:23 IST" duration-ms="3284" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [200] but found [400]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [200] but found [400]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:1240)
+at org.testng.Assert.assertEquals(Assert.java:1274)
+at qtriptest.APITests.testCase_API_03.TestCase03(testCase_API_03.java:66)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.runTests(TestNGTestClassProcessor.java:146)
+at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.stop(TestNGTestClassProcessor.java:91)
+at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+at com.sun.proxy.$Proxy2.stop(Unknown Source)
+at org.gradle.api.internal.tasks.testing.worker.TestWorker$3.run(TestWorker.java:193)
+at org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)
+at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)
+at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)
+at org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)
+at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:133)
+at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:71)
+at worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)
+at worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase03 -->
+      </class> <!-- qtriptest.APITests.testCase_API_03 -->
+      <class name="qtriptest.APITests.testCase_API_04">
+        <test-method signature="TestCase04()[pri:0, instance:qtriptest.APITests.testCase_API_04@65f8f5ae]" started-at="2023-12-21T12:07:23 IST" name="TestCase04" description="Verify new user can be registered and login using APIs of QTrip" finished-at="2023-12-21T12:07:25 IST" duration-ms="2099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase04 -->
+      </class> <!-- qtriptest.APITests.testCase_API_04 -->
+    </test> <!-- TestCase -->
+  </suite> <!-- API Test for QTRIP -->
+</testng-results>
