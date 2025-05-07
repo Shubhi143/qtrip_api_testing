@@ -8,8 +8,8 @@
                 <classes>
                     <class name="qtriptest.APITests.testCase_API_01"></class>
                     <class name="qtriptest.APITests.testCase_API_02"></class>
+            
                     <class name="qtriptest.APITests.testCase_API_03"></class>
-                    <class name="qtriptest.APITests.testCase_API_04"></class>
                 </classes>
                 <packages>
                     <package name="qtriptest.APITests"/>
